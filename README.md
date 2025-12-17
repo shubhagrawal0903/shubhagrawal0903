@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate focused on building scalable, production-ready full-stack web applications. <br>
+Computer Science undergraduate focused on building scalable, production-ready full-stack web applications <br>
 
 
 ## 🌐 Socials:
