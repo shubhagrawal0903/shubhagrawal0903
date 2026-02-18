@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate focused on building scalable, production-ready full-stack web applications
+Computer Science undergraduate focused on building scalable, production-ready full-stack web applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhagrawal09)
